@@ -1,3 +1,4 @@
-👨‍💻 Full-Stack Enginner
-| 🐍 Python (FastAPI)
-| 🟨 JavaScript
+👨‍💻 Full-Stack Enginner |
+🐍 Python (FastAPI) |
+🟨 JavaScript |
+🍃 TailWind
