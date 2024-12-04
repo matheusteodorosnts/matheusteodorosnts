@@ -6,9 +6,15 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="http://127.0.0.1:5500/Matheus%20(1).png"  />
-</div>
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">👨‍💻 | Programmer Full-Stack<br>💻 | Programmer of 6 languages<br>🏭 | None</p>
+
+###
+
+<h2 align="left">My Skills</h2>
 
 ###
 
@@ -17,11 +23,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
 ###
