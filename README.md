@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 | Programmer Full-Stack<br>💻 | Programmer of 6 languages<br>🏭 | None</p>
+<p align="left">👨‍💻 | Programmer Full-Stack<br>💻 | Programmer of 2 languages<br>🏭 | None</p>
 
 ###
 
