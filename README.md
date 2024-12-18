@@ -1,8 +1,8 @@
-<h1 align="center">Hello! Welcome of my Profile</h1>
+<h1 align="center">Hello!👋Welcome of my Profile</h1>
 
 ###
 
-<p align="left">My name is Matheus. I'm Brazilian, and one Programmer Full-Stack :)</p>
+<p align="center">Hello! My name is Matheus. I am a Software Engineer, working as a Full-Stack developer in this field.</p>
 
 ###
 
