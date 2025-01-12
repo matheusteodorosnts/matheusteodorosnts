@@ -1,12 +1,12 @@
-<h1 align="center">Hello! Welcome of my Profile <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"> </h1> 
+<h1 align="center">Hello! Welcome of my Profile</h1>
 
 ###
 
-<p align="left">My name is Matheus, i'm loved for Programming, and computers. I'm one Programmer of 5 months in area</p>
+<p align="left">My name is Matheus, I'm a Full-Stack Enginner with 5 months in programming area.</p>
 
 ###
 
-<h2 align="center">About me ⭐</h2>
+<h2 align="center">About me 👨‍💻</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="center">My Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"></h2>
+<h2 align="center">My Skills 🌿</h2>
 
 ###
 
@@ -50,8 +50,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheusteodorosnts&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusteodorosnts&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=matheusteodorosnts&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=matheusteodorosnts&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
