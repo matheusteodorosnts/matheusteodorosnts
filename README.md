@@ -1,1 +1,1 @@
-<img src="bannerReadMe.png" height="374px" width="748px">
+<img src="bannerReadMe.png" height="490px" width="748px">
