@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I’m a passionate developer focused on building functional and impactful digital experiences. My skill set includes JavaScript, TypeScript, Python, HTML, CSS, as well as frameworks and libraries like React, Vue, Next.js, and NestJS. On the backend, I work with Fastify, Prisma, PostgreSQL, and MongoDB, and I rely on tools like Docker, Notion, and Figma to keep my workflow organized and efficient. I'm always seeking to expand my knowledge, improve my code quality, and contribute to projects that deliver real value. My goal is to continuously grow as a developer and make a meaningful impact in the tech industry.</p>
+<p align="left">I’m a passionate developer focused on building functional and impactful digital experiences. My skill set includes JavaScript, TypeScript, Python, HTML, CSS, as well as frameworks and libraries like React, Vue, Next.js, and NestJS. On the backend, I work with Fastify, Prisma, PostgreSQL, and MongoDB, and I rely on tools like Notion, and Figma to keep my workflow organized and efficient. I'm always seeking to expand my knowledge, improve my code quality, and contribute to projects that deliver real value. My goal is to continuously grow as a developer and make a meaningful impact in the tech industry.</p>
 
 ###
 
