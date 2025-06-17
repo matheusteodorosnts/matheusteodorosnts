@@ -48,6 +48,8 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="25" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt&logoColor=black&style=for-the-badge" height="25" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Handlebars.js-000000?logo=handlebarsdotjs&logoColor=white&style=for-the-badge" height="25" alt="handlebars logo"  />
 </div>
 
 ###
