@@ -74,6 +74,8 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="25" alt="redis logo"  />
   <img width="4" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/MySql-3776AB?logo=mysql&logoColor=white&style=for-the-badge" height="25" alt="mysql logo"  />
 </div>
 
 ###
