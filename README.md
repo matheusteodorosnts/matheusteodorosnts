@@ -10,6 +10,6 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,python,nodejs,nestjs,nextjs,nuxtjs,redis,postgresql,mysql,docker,mongodb,prisma,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,python,nodejs,nestjs,elysia,nextjs,nuxtjs,redis,postgresql,mysql,docker,mongodb,prisma)](https://skillicons.dev)
 
 ###
